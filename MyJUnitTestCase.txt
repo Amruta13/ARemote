@@ -1,1 +1,1 @@
-test class
+testing the class
